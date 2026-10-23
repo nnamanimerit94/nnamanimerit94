@@ -36,6 +36,10 @@ My contributions include ticket creation, data-model validation, notes integrity
 - **Learn2Earn — powered by Talent Nation:** AI-Native Software Engineering Fellowship (2026–present)
 - **Benue State University:** B.Sc. Business Management (2022)
 
+## Portfolio
+
+🌐 **[Visit my software engineering portfolio](https://nnamanimerit94.github.io)** — Projects, engineering case studies and résumé.
+
 ## Connect
 
 I'm interested in software engineering internships, backend opportunities, and collaborative projects.
